@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Uzduotis 1/Uzduotis 1.iml" filepath="$PROJECT_DIR$/Uzduotis 1/Uzduotis 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Uzduotis 2/Uzduotis 2.iml" filepath="$PROJECT_DIR$/Uzduotis 2/Uzduotis 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Uzduotis 3/Uzduotis 3.iml" filepath="$PROJECT_DIR$/Uzduotis 3/Uzduotis 3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Uzduotis 4/Uzduotis 4.iml" filepath="$PROJECT_DIR$/Uzduotis 4/Uzduotis 4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Uzduotis 5/Uzduotis 5.iml" filepath="$PROJECT_DIR$/Uzduotis 5/Uzduotis 5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/pamoka22.iml" filepath="$PROJECT_DIR$/.idea/pamoka22.iml" />
+    </modules>
+  </component>
+</project>
